@@ -13,10 +13,18 @@ body {
 .business-header {
     width: 1920px;
     height: 400px;
-    background-image: url("../road.png");
+    background-image: url("../shittycode.png");
     background-repeat: no-repeat;
     background-position: top;
     
+}
+
+.port-header {
+    width: 1920px;
+    height: 400px;
+    background-image: url("../roadfunny.png");
+    background-repeat: no-repeat;
+    background-position: top; 
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */
